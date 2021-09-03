@@ -1,1 +1,5 @@
-# blockchain-developer-bootcamp-final-project
+Placeholder for final project
+
+Ideas
+
+* NFT collection
